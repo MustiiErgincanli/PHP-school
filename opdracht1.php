@@ -1,8 +1,9 @@
 <?php
 
-/*
-* Copyright by Nathan Sakoetoe
-*/
+################################################
+#   * Created by Nathan Sakoetoe
+#   * Copyright 2012, Zavox All rights reserved.
+################################################
 
 	$som = 0;
 	
