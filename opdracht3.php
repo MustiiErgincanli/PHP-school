@@ -2,6 +2,7 @@
 
 /*
 * Copyright by Nathan Sakoetoe
+* 2012
 */
 	
 	$f1 = 0;
@@ -17,7 +18,7 @@
 		$f1 = $f2;
 		$f2 = $f3;
 		
-		if( strlen( $f3 ) == 15 ) $searching = false;
+		if( strlen( $f3 ) == 30 ) $searching = false;
 	}
 
 	echo 'Eerste met 30 cijfers is F' . $i . ' met ' . $f3;
