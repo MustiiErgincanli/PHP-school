@@ -17,7 +17,7 @@
 		$f3 = $f1 + $f2;
 		$f1 = $f2;
 		$f2 = $f3;
-		
+		//execute limit on localhost
 		if( strlen( $f3 ) == 30 ) $searching = false;
 	}
 
