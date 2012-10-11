@@ -1,10 +1,10 @@
 <?php
 
-/*
-* Copyright by Nathan Sakoetoe
-* 2012
-*/
-	
+################################################
+#   * Created by Nathan Sakoetoe
+#   * Copyright 2012, Zavox All rights reserved.
+################################################
+
 	$f1 = 0;
 	$f2 = 1;
 	$i = 0;
