@@ -5,6 +5,7 @@
 #   * Copyright 2012, Zavox All rights reserved.
 ################################################
 
+	
 	$som = 0;
 	
 	//Met een loopje herhaal je iets
@@ -14,7 +15,7 @@
 				$som = $som + $i;			
     }
 }
-	//Output van de som
+	//Uitkomst van de som wordt weergeven.
 	echo $som;
 	
 ?>
