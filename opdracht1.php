@@ -7,8 +7,9 @@
 
 	$som = 0;
 	
+	//Met een loopje herhaal je iets
 	for ($i = 0; $i < 1000; $i++) {
-			//heel getal
+			//Met is_int checken of het om een heel getal gaat.
 			if (is_int($i / 3) || is_int($i / 5)) {
 				$som = $som + $i;			
     }
