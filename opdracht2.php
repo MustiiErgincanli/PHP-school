@@ -17,7 +17,7 @@
  
 	$deelbaar = 0; 
 	for( $i = 1; $i <= $sum; $i++ ) { 
-		if( $sum % $i === 0 ) $deelbaar++; 
+		if( $sum % $i == 0 ) $deelbaar++; 
 	} 
  
 	echo $sum . " is deelbaar door " . $deelbaar . " getallen\n"; 
