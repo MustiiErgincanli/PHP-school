@@ -23,7 +23,7 @@
 	echo $sum . " is deelbaar door " . $deelbaar . " getallen\n"; 
 	echo "<br />";
 	 
-	if( $deelbaar === 10 ) $searching = false; 
+	if( $deelbaar == 10 ) $searching = false; 
 	
 	}	
 
